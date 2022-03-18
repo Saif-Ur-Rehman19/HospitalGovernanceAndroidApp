@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Hospital Governance App</string>
+    <string-array name="timeframes">
+        <item>Select time you are available</item>
+        <item>7-9 AM</item>
+        <item>9-11 AM</item>
+        <item>11-1 PM</item>
+        <item>1-3 PM</item>
+        <item>3-5 PM</item>
+    </string-array>
+    <string-array name="departments">
+        <item>Select departments</item>
+        <item>Dentistry</item>
+        <item>Cardiology</item>
+        <item>Accident and Emergency</item>
+        <item>Psychiatry</item>
+        <item>Urology</item>
+        <item>Ophthalmology</item>
+        <item>Radiology</item>
+        <item>Pathology</item>
+        <item>Nephrology</item>
+    </string-array>
+    <string-array name="specialization">
+        <item>Select Specialization</item>
+        <item>Dentist</item>
+        <item>Surgery</item>
+        <item>Cardiologist</item>
+        <item>Dermatologist</item>
+        <item>Neurologist</item>
+        <item>Psychiatry</item>
+        <item>Radiologist</item>
+        <item>Urologist</item>
+        <item>Pathologist</item>
+    </string-array>
+</resources>

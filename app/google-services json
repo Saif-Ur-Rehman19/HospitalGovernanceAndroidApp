@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008214983291",
+    "project_id": "hospitalgovernanceapp",
+    "storage_bucket": "hospitalgovernanceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008214983291:android:d93650fc3a06352bb318de",
+        "android_client_info": {
+          "package_name": "com.saif.hospitalgovernanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008214983291-7pv450abfmsodmbc4pirros9tq4i1ecq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgtIiexHSUg1iabU54c4T4B1K239qckg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008214983291-7pv450abfmsodmbc4pirros9tq4i1ecq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
