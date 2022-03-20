@@ -180,8 +180,7 @@ public class PatientRegistration extends AppCompatActivity {
                                                         }
                                                 );
                                             }
-                                        }
-                                );
+                                        });
                             } else {
                                 databaseReference.child("Users").child(firebaseAuth.getUid()).child("image").setValue("null");
 
